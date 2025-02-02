@@ -8,6 +8,7 @@ const ProductCard = ({
   description,
   price,
   setCartItems,
+  
 }) => {
   return (
     <div className="product-card">
